@@ -11,5 +11,5 @@ Contingut del **repositori**:
 
 - datasets/: Conjunts de dades utilitzats en l'estudi
 - codi/: Fitxer d'execució principal (Jupyter Notebook)
-- resultats/: Fitxers de resultats (CSV i gràfics)
+- resultats/: Fitxers de resultats CSV
 - README.md: Aquest fitxer
