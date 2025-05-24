@@ -1,0 +1,51 @@
+Tipus d'error,Interferència del castellà,Masked,Resposta normativa,Resposta no normativa freqüent
+caiguda_prep,Sí,Em refereixo <mask> que va cantar.,al,a
+caiguda_prep,Sí,Parlo <mask> que va sortir l’altre dia al diari,del,de
+caiguda_prep,Sí,Depèn <mask> que decideixin els experts.,del,de
+caiguda_prep,Sí,No es recorda <mask> que li vaig explicar.,del,de
+caiguda_prep,Sí,No m’havia adonat <mask> que estava equivocat.,del,de
+caiguda_prep,Sí,Em refereixo <mask> que va fer una nova pel·lícula.,al,a
+caiguda_prep,Sí,Parlo <mask> que moure la caixa de lloc. ,del,de
+caiguda_prep,Sí,Depèn <mask> que vulgin fer.,del,de
+caiguda_prep,Sí,No es recorda <mask> que va veure aquell dia.,del,de
+caiguda_prep,Sí,No m'havia adonat <mask> que estava mal col·locat.,del,de
+en_relacio_a,No,"No tinc informació actualitzada en relació <mask> la teva sol·licitud, però ho consultaré.",amb,a
+en_relacio_a,No,No hi ha hagut avenços en relació <mask> aquest assumpte.,amb,a
+en_relacio_a,No,No sé res nou en relació <mask> l’examen.,amb,a
+en_relacio_a,No,No he rebut cap avís en relació <mask> la reunió de demà.,amb,a
+en_relacio_a,No,Encara no hi ha cap decisió presa en relació <mask> el pressupost.,amb,a
+en_relacio_a,No,Vull fer-te una pregunta <mask> relació a la proposta que has enviat.,amb,en
+en_relacio_a,No,Vull parlar <mask> relació a aquest tema.,amb,en
+en_relacio_a,No,"No hi ha notícies <mask> relació al vostre problema, em sap greu. ",amb,en
+en_relacio_a,No,No tenim cap novetat <mask> relació a aquest projecte.,amb,en
+en_relacio_a,No,No s’ha pres cap mesura <mask> relació a el problema de seguretat.,amb,en
+a_od,Sí,Això afecta <mask> trànsit aeri.,el,al
+a_od,Sí,He vist <mask> cotxe nou.,el,al
+a_od,Sí,L’entrenador felicitarà <mask> jugadors després del partit.,els,als
+a_od,Sí,L’empresa vol formar <mask> seus treballadors.,els,als
+a_od,Sí,Estic esperant <mask> professor per resoldre un dubte.,el,al
+a_od,Sí,Han acomiadat <mask> empleats més antics de l’empresa.,el,al
+a_od,Sí,Sempre ajuda <mask> seus companys quan ho necessiten.,els,als
+a_od,Sí,El professor ha avisat <mask> alumnes sobre el canvi d’horari.,els,als
+a_od,Sí,El jutge ha interrogat <mask> testimonis del cas.,els,als
+a_od,Sí,Han seleccionat <mask> millors candidats per al lloc de feina.,els,als
+com_reg,Sí,Al restaurant fa molta olor <mask> fregit.,de,a
+com_reg,Sí,Tinc por <mask> les aranyes.,de,a
+com_reg,Sí,El meu horari és diferent <mask> teu.,del,al
+com_reg,Sí,La solució <mask> problema és molt senzilla.,del,al
+com_reg,Sí,La noia va aprofitar per treure profit <mask> la situació i va guanyar molts diners.,de,a
+com_reg,Sí,Va fer cas <mask> les recomanacions del metge.,de,a
+com_reg,Sí,Sento una forta pudor <mask> cremat a la cuina.,de,a
+com_reg,Sí,L’article fa esment <mask> diverses investigacions recents.,de,a
+com_reg,Sí,Va mostrar un clar rebuig <mask> la proposta.,de,a
+com_reg,Sí,Hauries de fer un bon repàs <mask> la matèria abans de l’examen.,de,a
+alt_prep,Sí,Tenim molt d'interès <mask> complir els nostres compromisos.,a,en
+alt_prep,Sí,La idea consisteix <mask> analitzar els models.,a,en
+alt_prep,Sí,La majoria d'estudiants es van mostrar d'acord <mask> fer una pausa.,a,en
+alt_prep,Sí,La van amenaçar <mask> despatxar-la.,de,amb
+alt_prep,Sí,Insisteixen <mask> tornar cap a casa.,a,en
+alt_prep,Sí,Va mostrar interès <mask> aprendre nous mètodes per fer aquests exercicis.,a,en
+alt_prep,Sí,L'exercici es basa <mask> explicar les circumstàncies del conflicte.,a,en
+alt_prep,Sí,Ens complaem <mask> acceptar la vostra col·laboració.,a,en
+alt_prep,Sí,"Engrescat <mask> fundar la coral, tot el temps que hi dedica li sembla poc.",a,en
+alt_prep,Sí,"Estava tan capficat <mask> completar la jugada, que no es va adonar que el temps s'havia acabat. ",a,en
