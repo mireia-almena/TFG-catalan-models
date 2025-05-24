@@ -1,0 +1,21 @@
+Model,Tipus d'error,Normatives Top 1,Normatives Top 5,No normativess Top 1,No normativess Top 5,Altres
+projecte-aina/roberta-base-ca-v2,caiguda_prep,6,7,3,10,0
+projecte-aina/roberta-base-ca-v2,en_relacio_a,2,10,8,10,0
+projecte-aina/roberta-base-ca-v2,a_od,6,10,1,7,0
+projecte-aina/roberta-base-ca-v2,com_reg,8,10,2,10,0
+projecte-aina/roberta-base-ca-v2,alt_prep,5,10,4,10,0
+facebook/xmod-base,caiguda_prep,6,10,3,8,0
+facebook/xmod-base,en_relacio_a,3,10,7,10,0
+facebook/xmod-base,a_od,5,9,2,8,1
+facebook/xmod-base,com_reg,5,10,4,10,0
+facebook/xmod-base,alt_prep,3,10,5,10,0
+Twitter/twhin-bert-large,caiguda_prep,4,8,2,7,0
+Twitter/twhin-bert-large,en_relacio_a,1,10,9,10,0
+Twitter/twhin-bert-large,a_od,5,9,3,9,1
+Twitter/twhin-bert-large,com_reg,4,10,6,10,0
+Twitter/twhin-bert-large,alt_prep,1,10,6,10,0
+facebook/xlm-v-base,caiguda_prep,2,6,3,8,1
+facebook/xlm-v-base,en_relacio_a,3,10,7,10,0
+facebook/xlm-v-base,a_od,6,9,2,8,1
+facebook/xlm-v-base,com_reg,7,10,2,10,0
+facebook/xlm-v-base,alt_prep,2,10,5,9,0
