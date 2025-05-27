@@ -1,0 +1,33 @@
+Tipus,Subjecte,Objecte directe,Prediccions,Model,Prediccions subjecte,Prediccions objecte directe
+sense pronom explícit,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,1,5
+amb pronom explícit,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,3,3
+clivellada de subjecte sense pronom,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,1,5
+clivellada de subjecte amb pronom,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,1,5
+clivellada d'objecte sense pronom,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,4,2
+clivellada d'objecte amb pronom,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,4,2
+canvi d'ordre neutre sense pronom,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,3,3
+canvi d'ordre neutre amb pronom,Mar,Gal·la,Mar,projecte-aina/roberta-base-ca-v2,3,3
+sense pronom explícit,Mar,Gal·la,Mar,facebook/xmod-base,2,4
+amb pronom explícit,Mar,Gal·la,Mar,facebook/xmod-base,2,4
+clivellada de subjecte sense pronom,Mar,Gal·la,Mar,facebook/xmod-base,1,5
+clivellada de subjecte amb pronom,Mar,Gal·la,Mar,facebook/xmod-base,1,5
+clivellada d'objecte sense pronom,Mar,Gal·la,Mar,facebook/xmod-base,4,2
+clivellada d'objecte amb pronom,Mar,Gal·la,Mar,facebook/xmod-base,3,3
+canvi d'ordre neutre sense pronom,Mar,Gal·la,Mar,facebook/xmod-base,2,4
+canvi d'ordre neutre amb pronom,Mar,Gal·la,Mar,facebook/xmod-base,2,4
+sense pronom explícit,Mar,Gal·la,Mar,Twitter/twhin-bert-large,1,5
+amb pronom explícit,Mar,Gal·la,Mar,Twitter/twhin-bert-large,1,5
+clivellada de subjecte sense pronom,Mar,Gal·la,Mar,Twitter/twhin-bert-large,1,5
+clivellada de subjecte amb pronom,Mar,Gal·la,Mar,Twitter/twhin-bert-large,1,5
+clivellada d'objecte sense pronom,Mar,Gal·la,Mar,Twitter/twhin-bert-large,4,2
+clivellada d'objecte amb pronom,Mar,Gal·la,Mar,Twitter/twhin-bert-large,4,2
+canvi d'ordre neutre sense pronom,Mar,Gal·la,Mar,Twitter/twhin-bert-large,4,1
+canvi d'ordre neutre amb pronom,Mar,Gal·la,Mar,Twitter/twhin-bert-large,4,1
+sense pronom explícit,Mar,Gal·la,Mar,facebook/xlm-v-base,1,5
+amb pronom explícit,Mar,Gal·la,Mar,facebook/xlm-v-base,1,5
+clivellada de subjecte sense pronom,Mar,Gal·la,Mar,facebook/xlm-v-base,1,5
+clivellada de subjecte amb pronom,Mar,Gal·la,Mar,facebook/xlm-v-base,1,5
+clivellada d'objecte sense pronom,Mar,Gal·la,Mar,facebook/xlm-v-base,6,0
+clivellada d'objecte amb pronom,Mar,Gal·la,Mar,facebook/xlm-v-base,6,0
+canvi d'ordre neutre sense pronom,Mar,Gal·la,Mar,facebook/xlm-v-base,4,2
+canvi d'ordre neutre amb pronom,Mar,Gal·la,Mar,facebook/xlm-v-base,4,2
